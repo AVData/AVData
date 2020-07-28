@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VargasSTEM)](https://www.linkedin.com/in/VargasSTEM) 
+[![Linkedin Badge](https://img.shields.io/badge/-Agustin_Cody-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VargasSTEM)](https://www.linkedin.com/in/VargasSTEM) 
 
 # The Life of a Novice Data Scientist
 
@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 - Ask me about the time I worked on an olive farm in Catalonia, Spain; and how that pushed me over the edge and precipitated a change in career paths (not from farmer to data scientist).
 
 ## ☎️/📫 Connect with me
-- Feel free to reach me at AgustinVargas@ProtonMail.com, or you can find more about me in my [portfolio](https://www.AgustinCody.com)
+- [✉️ Email](AgustinVargas@ProtonMail.com)
+- [📂 Portfolio](https://www.AgustinCody.com)
 
 - 👨🏻‍ Pronouns: *He/Him*
 
