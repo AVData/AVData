@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-Agustin_Cody-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VargasSTEM)](https://www.linkedin.com/in/VargasSTEM) 
 
-# The Life of a Novice Data Scientist
-
-
 ## 👨🏻‍💻 Doing
 - My life has taken some twists and turns, and along one of those turns, I made a right (decision) in exploring this little idea of making the world a better place through data.  So, for now I'm looking for a job as a Data Scientist, and working on polishing my side projects.  The project I'm currently beautifying is one where I took a public traffic collisions dataset, and built a predictive model.  This particular peice allowed me flex some of that ML muscle.  Some of the tools/libraries used were SKLearn/XGBoost/RandomForestClassifiers/ROCAUC and PDPs.  Check back shortly for an update.
 
