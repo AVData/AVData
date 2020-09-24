@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Well, everything.  Please take a look at any of my projects, and provide feedback on anything you see can use some improvement.
 
 ## 💭 Something Interesting
-- Ask me about the time I worked on an olive farm in Catalonia, Spain; and how that pushed me to change in career paths (not from farmer to data scientist).
+- Ask me about the time I worked on an olive farm in Catalonia, Spain; and how that pushed me to change career path (not from farmer to data scientist).
 
 ## ☎️/📫 Connect with me
 - [✉️ Email](AgustinVargas@ProtonMail.com)
